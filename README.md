@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myj30
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning big data
+- 🌱 I’m currently learning Java、spring boot、vue
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 1806107834@qq.com
 
